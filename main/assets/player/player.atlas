@@ -97,7 +97,7 @@ animations {
     image: "/main/assets/player/sprites/hero-attack-5.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
   }
-  playback: PLAYBACK_ONCE_PINGPONG
+  playback: PLAYBACK_ONCE_FORWARD
   fps: 8
   flip_horizontal: 0
   flip_vertical: 0

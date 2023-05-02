@@ -608,12 +608,12 @@ convex_hulls {
 convex_hulls {
   index: 128
   count: 6
-  collision_group: ""
+  collision_group: "ground"
 }
 convex_hulls {
   index: 134
   count: 6
-  collision_group: ""
+  collision_group: "ground"
 }
 convex_hulls {
   index: 140
